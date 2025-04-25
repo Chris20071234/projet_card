@@ -40,15 +40,19 @@ body {
     margin: 10px O;
  
  }
- .reseauxsociaux a {
-     margin: 0 5px;
-    text-decoration: none;
-    color: #0076b6e3;
-    font-weight: bold;
-    font-size: 14px;
-    padding-right: 30px;
  
+ footer {
+    
+        margin: 0 5px;
+       text-decoration: none;
+       color: #0076b6e3;
+       font-weight: bold;
+       font-size: 14px;
+       padding-right: 30px;
+       margin-top: 13cm;
+       margin-right: 30px;
+    
  }
- .reseauxsociaux:hover {
-    background-color: rgb(140, 0, 255);
+ footer a:hover{
+    color: #666;
  }
